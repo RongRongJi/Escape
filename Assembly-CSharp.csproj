@@ -55,7 +55,9 @@
   <ItemGroup>
      <Compile Include="Assets\Scripts\MainScene\ChangeScene.cs" />
      <Compile Include="Assets\Scripts\MainScene\GetPlayerName.cs" />
+     <Compile Include="Assets\Scripts\MainScene\InitLevel.cs" />
      <Compile Include="Assets\Scripts\MainScene\Position.cs" />
+     <Compile Include="Assets\Scripts\MainScene\SetButtonPosition.cs" />
      <Compile Include="Assets\Scripts\SQLite\CreateDB.cs" />
      <Compile Include="Assets\Scripts\SQLite\DbAccess.cs" />
  <Reference Include="UnityEditor.StandardEvents">
