@@ -7,7 +7,8 @@ Android端手游Escape
 <b>Scripts</b> 此文件夹放置所有C#代码，建议每个场景分包存放，其中数据库的相关操作已封装在SQLite文件夹下<br>
 <b>Scenes</b> 此文件夹存放所有的场景<br>
 <b>Sounds</b> 此文件夹存放声音资源<br>
-<b>StreamingAsset</b> <br>
+<b>Resouces</b> 此文件夹中的资源可以使用Resouces.Load直接调用<br>
 <b>Textures</b> 此文件夹存放图片资源<br>
 ### 更新记录
 2018.7.31 创建项目<br>
+2018.8.5 初步修改的主界面上传<br>
